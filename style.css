@@ -1,0 +1,32 @@
+body{
+	background-color: #502;
+}
+
+h1{
+	text-align: center;
+	background-color: #fc8;
+	margin: 20px 10% 13px;
+}
+
+#description{
+	background-color: #fc8;
+	padding: 10px;
+	margin: 0% 10%;
+}
+
+a{
+	display: block;
+	margin: 15px auto;
+	width: 400px;
+}
+
+#patchnotes{
+	background-color: #fc8;
+	padding: 10px;
+	margin: 0% 10%;
+}
+
+.version{
+	border: 2px solid black;
+	padding: 10px;
+}
